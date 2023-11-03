@@ -12,7 +12,7 @@ Getting Started
 
 Clone the Repository
 
-git clone https://github.com/yourusername/To-Do-List.git
+git clone https://github.com/k-cofield/To-Do-List.git
 
 Navigate to the Project Directory
 cd To-Do-List
