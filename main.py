@@ -43,9 +43,6 @@ def view_tasks():
                                                    ))
 
 
-# Rest of your code remains the same
-
-
 # Function to delete a task
 def delete_task():
     task_to_delete = input("Enter the name of the task to delete: ").lower()
